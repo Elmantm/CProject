@@ -2,17 +2,17 @@
 
 namespace CodeAcademy.Core.Entities;
 
-public class Company:IEntity
+public class CompanyType:IEntity
 {
     private static int _id;
     public string Name { get; set; }
     public int CompanyId { get; }
-    public Company()
+    public CompanyType()
     {
         CompanyId = _id;
         _id++;
     }
-    public Company(string name) : this()
+    public CompanyType(string name) : this()
     {
         Name = name;
     }

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Code.DataAcces/1.0.0": {
+        "dependencies": {
+          "CodeAcademy.Core": "1.0.0"
+        },
+        "runtime": {
+          "Code.DataAcces.dll": {}
+        }
+      },
+      "CodeAcademy.Core/1.0.0": {
+        "runtime": {
+          "CodeAcademy.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Code.DataAcces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodeAcademy.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\c#\AcademyProject1\Code.DataAcces\bin\Debug\net6.0\Code.DataAcces.deps.json
+C:\c#\AcademyProject1\Code.DataAcces\bin\Debug\net6.0\Code.DataAcces.dll
+C:\c#\AcademyProject1\Code.DataAcces\bin\Debug\net6.0\Code.DataAcces.pdb
+C:\c#\AcademyProject1\Code.DataAcces\bin\Debug\net6.0\CodeAcademy.Core.dll
+C:\c#\AcademyProject1\Code.DataAcces\bin\Debug\net6.0\CodeAcademy.Core.pdb
+C:\c#\AcademyProject1\Code.DataAcces\obj\Debug\net6.0\Code.DataAcces.csproj.AssemblyReference.cache
+C:\c#\AcademyProject1\Code.DataAcces\obj\Debug\net6.0\Code.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\AcademyProject1\Code.DataAcces\obj\Debug\net6.0\Code.DataAcces.AssemblyInfoInputs.cache
+C:\c#\AcademyProject1\Code.DataAcces\obj\Debug\net6.0\Code.DataAcces.AssemblyInfo.cs
+C:\c#\AcademyProject1\Code.DataAcces\obj\Debug\net6.0\Code.DataAcces.csproj.CoreCompileInputs.cache
+C:\c#\AcademyProject1\Code.DataAcces\obj\Debug\net6.0\Code.DataAcces.csproj.CopyComplete
+C:\c#\AcademyProject1\Code.DataAcces\obj\Debug\net6.0\Code.DataAcces.dll
+C:\c#\AcademyProject1\Code.DataAcces\obj\Debug\net6.0\refint\Code.DataAcces.dll
+C:\c#\AcademyProject1\Code.DataAcces\obj\Debug\net6.0\Code.DataAcces.pdb
+C:\c#\AcademyProject1\Code.DataAcces\obj\Debug\net6.0\ref\Code.DataAcces.dll

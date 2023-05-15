@@ -30,4 +30,13 @@ public class DepartmentRepository : IRepository<Department>
         return DbContext.DbContext.Departments;
     }
 
+    public Department? GetByName(string name)
+    {
+        return DbContext.DbContext.Departments.Find(g => g.Name == name);
+    }
+
+    public List<Department> GetAllByName(string name)
+    {
+        return DbContext.DbContext.Departments.FindAll(Empt=>Empt.GetType==GetAllByName);
+    }
 }

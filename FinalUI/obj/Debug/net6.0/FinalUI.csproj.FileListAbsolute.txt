@@ -1,0 +1,5 @@
+C:\c#\AcademyProject1\FinalUI\obj\Debug\net6.0\FinalUI.csproj.AssemblyReference.cache
+C:\c#\AcademyProject1\FinalUI\obj\Debug\net6.0\FinalUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\AcademyProject1\FinalUI\obj\Debug\net6.0\FinalUI.AssemblyInfoInputs.cache
+C:\c#\AcademyProject1\FinalUI\obj\Debug\net6.0\FinalUI.AssemblyInfo.cs
+C:\c#\AcademyProject1\FinalUI\obj\Debug\net6.0\FinalUI.csproj.CoreCompileInputs.cache

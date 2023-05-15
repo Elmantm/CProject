@@ -1,4 +1,5 @@
-﻿using CodeAcademy.Core.Entities;
+﻿
+using CodeAcademy.Core.Entities;
 
 namespace Code.DataAcces.İmplementations;
 
@@ -30,4 +31,13 @@ public class EmployeeRepository : IRepository<Employee>
         return DbContext.DbContext.Employees;
     }
 
+    public Employee? GetByName(string name)
+    {
+        return DbContext.DbContext.Employees.Find(Emp => Emp.Name == name);
+    }
+
+    public List<Employee> GetAllByName(string name)
+    {
+        return DbContext.DbContext.Employees.FindAll(g=>g.Name==name);
+    }
 }

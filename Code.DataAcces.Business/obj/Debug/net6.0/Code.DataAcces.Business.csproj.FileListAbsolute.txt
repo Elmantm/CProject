@@ -1,0 +1,5 @@
+C:\c#\AcademyProject1\Code.DataAcces.Business\obj\Debug\net6.0\Code.DataAcces.Business.csproj.AssemblyReference.cache
+C:\c#\AcademyProject1\Code.DataAcces.Business\obj\Debug\net6.0\Code.DataAcces.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\AcademyProject1\Code.DataAcces.Business\obj\Debug\net6.0\Code.DataAcces.Business.AssemblyInfoInputs.cache
+C:\c#\AcademyProject1\Code.DataAcces.Business\obj\Debug\net6.0\Code.DataAcces.Business.AssemblyInfo.cs
+C:\c#\AcademyProject1\Code.DataAcces.Business\obj\Debug\net6.0\Code.DataAcces.Business.csproj.CoreCompileInputs.cache
